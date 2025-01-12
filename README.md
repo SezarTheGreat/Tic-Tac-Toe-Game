@@ -1,1 +1,1 @@
-This is a C program practice repository that documents my C program learning journey.
+This is a TIc-Tac_Toe game made in C programming language and uses all the fundamental c programming conceopts like loops, nested loops, nested if-else statements, do-while loops, functions. It also uses the time, stdlib, ctype libraries. It also has a decent front-end and a game board design.
